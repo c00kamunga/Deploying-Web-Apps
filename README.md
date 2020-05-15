@@ -13,6 +13,7 @@ Think about which project you are most proud of up to this point that you have b
 Follow these steps for completing your project.
 
 - [x] Send your team lead the link to your web app 
+//https://docusaurus.c00kamunga.now.sh/
 - [x] Show them that it has been added to your portfolio
 - [x] If you don't have a portfolio, use this project time to create a portfolio, and deploy it with ZEIT ([here](https://github.com/LambdaSchool/portfolio-website) is a guide for this)
 - [x] Once you have finished, your TL will count the project as completed
