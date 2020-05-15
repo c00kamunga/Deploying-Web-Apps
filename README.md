@@ -12,10 +12,11 @@ Think about which project you are most proud of up to this point that you have b
 
 Follow these steps for completing your project.
 
-- [ ] Send your team lead the link to your web app 
-- [ ] Show them that it has been added to your portfolio
-- [ ] If you don't have a portfolio, use this project time to create a portfolio, and deploy it with ZEIT ([here](https://github.com/LambdaSchool/portfolio-website) is a guide for this)
-- [ ] Once you have finished, your TL will count the project as completed
+- [x] Send your team lead the link to your web app 
+//https://docusaurus.c00kamunga.now.sh/
+- [x] Show them that it has been added to your portfolio
+- [x] If you don't have a portfolio, use this project time to create a portfolio, and deploy it with ZEIT ([here](https://github.com/LambdaSchool/portfolio-website) is a guide for this)
+- [x] Once you have finished, your TL will count the project as completed
 
 # Project - Portfolio Piece
 
@@ -28,3 +29,7 @@ After you have figured out which project you want to deploy, sign up for an acco
 Do not attempt stretch problems until MVP has been reached and a final commit has been made.
 
 Work on deploying a second, or even third portfolio project. If you have extra time, go back and update the styles, add features, fix bugs, etc, on all the sites so that they will look good for potential employers.
+
+
+
+((((test commit))))
